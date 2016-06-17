@@ -1,0 +1,19 @@
+<div class="content">
+	<div class="drop">
+		<div class="wzrd">
+			<div class="wzrdicon"></div>
+		</div>
+		<div class="description">
+			<h2 class="header">Get started</h2>
+			<p>Drag & Drop your CSV here for instant import or use the ( <img class="wizardwand" src="{{assetURL 'wizardwand.png'}}" alt="thumbsup" /> ) button to browse your folders!</p>
+			<p>Need help? <a href="#">Download</a> a template.</p>
+		</div>
+	</div>
+</div>
+<a href="" id="upload_link">
+	<div id="upload_link" class="selectfile inheritbkgd">
+		<div class="selectwand">
+		</div>
+	</div>
+</a>
+<input id="upload" type="file" accept=".csv" />

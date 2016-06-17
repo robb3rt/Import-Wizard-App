@@ -1,0 +1,44 @@
+<div class="content">
+	<div class="selections">
+		<div class="option tickets">
+			<div class="roundborder inheritbkgd">
+				<div class="tickets icon"></div>
+			</div>
+			<span class="tickets title">Tickets</span>
+			<span class="li title dropdown">Dropdown field</span>
+			<span class="li title tickets">Tickets</span>
+		</div>
+		<br>
+		<div class="option users">
+			<div class="roundborder inheritbkgd">
+				<div class="users icon"></div>
+			</div>
+			<span class="users title">Users</span>
+			<span class="li title dropdown">Dropdown field</span>
+		</div>
+		<br>
+		<div class="option organizations">
+			<div class="roundborder inheritbkgd">
+				<div class="organizations icon"></div>
+			</div>
+			<span class="organizations title">Organizations</span>
+			<span class="li title dropdown">Dropdown field</span>
+		</div>
+		<br>
+		<div class="option voice">
+			<div class="roundborder inheritbkgd">
+				<div class="voice icon"></div>
+			</div>
+			<span class="voice title">Voice</span>
+			<span class="li title">Many greetings</span>
+		</div>
+		<br>
+		<div class="option zopim">
+			<div class="roundborder inheritbkgd">
+				<div class="zopim icon"></div>
+			</div>
+			<span class="zopim title">Zopim</span>
+			<span class="li title">Chats</span>
+		</div>
+	</div>
+</div>

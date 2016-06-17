@@ -1,0 +1,9 @@
+<div class="status">
+	<div class="success">
+		<div class="tickcontainer"><img class="check" src="{{assetURL 'donecheck.png'}}" /></div>
+		<div class="txtdone">
+			<h2>Great!</h2>
+			<p>Files are being imported! :)</p>
+		</div>
+	</div>
+</div>

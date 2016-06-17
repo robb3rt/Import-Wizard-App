@@ -1,0 +1,18 @@
+<header class="IWphase0 inheritbkgd">
+<div class="wizardhat"></div>
+<h3 class="header">{{setting "name"}}</h3>
+<div class="topbar">
+		<div class="backbtn"><div class="icon left"></div></div>
+		<div class="selection" id="selectionpart">
+		</div>
+		<div class="choice dots dropdown-toggle" type="button" data-toggle="dropdown">
+			<ul class="subtype dropdown-menu" style="margin: 5px 0 0;">
+				<li class="selected"><a href="#">HTML</a></li>
+				<li><a href="#">CSS</a></li>
+				<li><a href="#">JavaScript</a></li>
+			</ul>
+			<div class="icon right"></div>
+		</div>
+	</div>
+</header>
+<section id="mainsection" data-main/>
